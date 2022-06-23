@@ -12,7 +12,7 @@
   "author": "Agora.IO",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AgoraLab/DynamicKeyServer-nodejs.git"
+    "url": "https://github.com/AadeshKarira/DynamicKeyServer-nodejs.git"
   },
   "license": "MIT"
 }
